@@ -5,7 +5,6 @@ void capitalize(string &str) {
     str[0] = toupper(str[0]); 
 
 }
-
 int main() {
     string subject = "computer science";
     capitalize(subject);
