@@ -16,8 +16,7 @@ void binaryTriangle(int n) {
 
 int main() {
     int n;
-    cout << "Enter size: ";
-    cin >> n;
+    n=5;
     binaryTriangle(n);
     return 0;
 }
