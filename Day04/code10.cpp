@@ -8,7 +8,6 @@ void Pyramid(int n) {
         cout << endl;
     }
 }
-
 int main() {
     int n = 5; 
     Pyramid(n); 
